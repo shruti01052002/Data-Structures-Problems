@@ -1,5 +1,4 @@
 /**
-Selection Sort
 1. Lowest Element takes it's position first.
 2. Here Arr[i] is fixed and Compared with all successive element
 3. It takes less time than Bubble Sort to execute.
