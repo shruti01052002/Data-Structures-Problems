@@ -44,11 +44,11 @@ int main()
     return 0;
 }
 
-/**
+/*
 OUTPUT:
 Here We have vector is:
 20 10 30 100 50 60 90 80 70 40
-Sorting of vector in asscending order:
+Sorting of vector in ascending order:
 10 20 30 40 50 60 70 80 90 100
 Sorting of vector in descending order:
 100 90 80 70 60 50 40 30 20 10
@@ -63,4 +63,4 @@ Sum of Elements of vector
 
 Process returned 0 (0x0)   execution time : 0.113 s
 Press any key to continue.
-**/
+*/

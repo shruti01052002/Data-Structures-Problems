@@ -1,0 +1,14 @@
+Some important and commonly used functions of List are:
+
+1. front() – Returns the value of the first element in the list.
+2. back() – Returns the value of the last element in the list.
+3. push_front(g) – Adds a new element ‘g’ at the beginning of the list.
+4. push_back(g) – Adds a new element ‘g’ at the end of the list.
+5. pop_front() – Removes the first element of the list, and reduces the size of the list by 1.
+6. pop_back() – Removes the last element of the list, and reduces the size of the list by 1.
+7. begin() and end() – begin() function returns an iterator pointing to the first element of the list.
+8. empty() – Returns whether the list is empty(1) or not(0).
+9. insert() – Inserts new elements in the list before the element at a specified position.
+10. reverse() – Reverses the list.
+11. size() – Returns the number of elements in the list.
+12. sort() – Sorts the list in increasing order.
