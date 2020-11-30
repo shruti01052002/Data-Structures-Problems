@@ -13,3 +13,10 @@ Some important and commonly used functions of Vector class are:
 11. clear() – It is used to remove all the elements of the vector container.
 12. emplace() – It extends the container by inserting new element at position.
 13. emplace_back() – It is used to insert a new element into the vector container, the new element is added to the end of the vector.
+
+//Removing element from a vector with element 0
+for (auto i = p.begin(); i != p.end(); ++i) {
+        if (*i == 0) {
+            p.erase(i);
+            i--;
+        }
