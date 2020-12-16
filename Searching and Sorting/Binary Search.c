@@ -1,4 +1,4 @@
-/** Binary Search (Array should be sorted in increasing or decreasing order**/
+ /** Binary Search (Array should be sorted in increasing or decreasing order**/
 #include<stdio.h>
 void BinarySearch(int arr[],int n, int x);
 int main()
